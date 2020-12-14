@@ -1,0 +1,4 @@
+include ':spotify-app-remote-release-0.7.1'
+include ':spotify_connect'
+include ':app'
+rootProject.name = "Olysmusicquiz"
